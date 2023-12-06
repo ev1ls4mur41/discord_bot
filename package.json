@@ -1,0 +1,19 @@
+{
+  "name": "itswednesday",
+  "version": "1.0.0",
+  "description": "simple bot ",
+  "main": "index.js",
+  "scripts": {
+    "test": "Everything is OK!"
+  },
+  "keywords": [
+    "discordbot"
+  ],
+  "author": "Igor Mishakin",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^3.1.6",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
